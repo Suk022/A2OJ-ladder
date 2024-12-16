@@ -6,7 +6,7 @@ The problems are categorized by their difficulty levels and include solutions wr
 To run the solutions:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/competitive-programming-solutions.git
+   git clone https://github.com/Suk022/A2OJ-ladder.git
    ```
 2. Navigate to the folder containing the problem solution you want to run.
 3. Run the solution using your preferred language.
