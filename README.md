@@ -1,6 +1,6 @@
 # Competitive Programming Solutions - A2OJ Ladder 11
 This repository contains my solutions to algorithmic problems from the A2OJ Ladder 11, focusing on improving my problem-solving skills and knowledge of algorithms and data structures.
-The problems are categorized by their difficulty levels and include solutions written in [Python]. I aim to solve problems to enhance my coding skills and improve my performance in technical interviews.
+The problems are categorized by their difficulty levels and include solutions written in [Python].
 
 ## How to Use
 To run the solutions:
